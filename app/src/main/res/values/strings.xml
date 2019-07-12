@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="Welcome">Welcome to ACL 4.0</string>
+    <string name="about">About ACL</string>
+    <string name="profile">My Profile</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="name">Name</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="track">Track</string>
+    <string name="logo">Logo</string>
+</resources>
