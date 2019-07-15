@@ -38,12 +38,12 @@ public class ProfileActivity extends AppCompatActivity {
 
 
 
-        user.setFullname( "Christian Valentine Tsigbey");
-        user.setTrack("Track: " +"Android");
-        user.setCountry("Country: " +"Ghana");
-        user.setEmail("Email: " +"elevationdeveloper@gmail.com");
-        user.setPhoneNumber("Phone Number: " +"233245000245");
-        user.setUsername("Slack Username: " +"Chris");
+        user.setFullname("Christian Valentine Tsigbey");
+        user.setTrack("Track: " + "Android");
+        user.setCountry("Country: " + " Ghana");
+        user.setEmail("Email: " + " elevationdeveloper@gmail.com");
+        user.setPhoneNumber("Phone Number: " + " 233245000245");
+        user.setUsername("Slack Username: " + " Chris");
 
 
        binding.setUser(user);
